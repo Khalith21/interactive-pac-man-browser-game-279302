@@ -1,1 +1,3 @@
-# interactive-pac-man-browser-game-279302
+# Project Repository
+
+This is the initial README file for the project.
