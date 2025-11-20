@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/interactive-pac-man-browser-game-279302/pacman_frontend"
+}
